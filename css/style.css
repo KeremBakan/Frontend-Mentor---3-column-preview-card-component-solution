@@ -41,6 +41,7 @@ body {
     font-size: 48px;
     color: hsl(0, 0%, 95%);
     margin-bottom: 40px;
+    text-transform: uppercase;
 }
 
 .card-p {
